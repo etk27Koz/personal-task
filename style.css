@@ -4,7 +4,7 @@ style.css
 /* General page styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f3f0ff;
+    background-color: lightblue;
     margin: 0;
     padding: 40px;
     color: #333;
@@ -51,7 +51,7 @@ tr:nth-child(even) {
 
 /* Hover effect */
 tr:hover {
-    background-color: #eee8ff;
+    background-color: darkblue;
 }
 
 /* Checkbox styling */
