@@ -31,7 +31,7 @@ table {
 
 /* Table headings */
 th {
-    background-color: #a995d5;
+    background-color: darkblue;
     color: white;
     padding: 16px;
     font-size: 17px;
@@ -46,7 +46,7 @@ td {
 
 /* Alternating row colours */
 tr:nth-child(even) {
-    background-color: #f8f6ff;
+    background-color: lightblue;
 }
 
 /* Hover effect */
