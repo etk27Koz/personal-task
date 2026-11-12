@@ -3,7 +3,7 @@ const checkboxes = document/querySelectorAll(".task-checkbox");
 
 //Get the counter and message
 const counter = document.getelementById("task-counter");
-const message = document.getElementById('message");
+const message = document.getElementById("message");
 
 //Function to update the task list
 function updateTasks () {
