@@ -68,3 +68,16 @@ td ul {
     display: inline-block;
     line-height: 1.8;
 }
+
+/* Priority level colours */
+.medium {
+    color: orange;
+}
+
+.low {
+    color: green;
+}
+
+.high {
+    color: red;
+}
