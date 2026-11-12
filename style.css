@@ -51,7 +51,7 @@ tr:nth-child(even) {
 
 /* Hover effect */
 tr:hover {
-    background-color: darkblue;
+    background-color: pastel-blue;
 }
 
 /* Checkbox styling */
