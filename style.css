@@ -1,2 +1,70 @@
 style.css
 
+
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f0ff;
+    margin: 0;
+    padding: 40px;
+    color: #333;
+}
+
+/* Main heading */
+h1 {
+    text-align: center;
+    color: #7056a8;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+/* Table styling */
+table {
+    width: 85%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Table headings */
+th {
+    background-color: #a995d5;
+    color: white;
+    padding: 16px;
+    font-size: 17px;
+}
+
+/* Table cells */
+td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+}
+
+/* Alternating row colours */
+tr:nth-child(even) {
+    background-color: #f8f6ff;
+}
+
+/* Hover effect */
+tr:hover {
+    background-color: #eee8ff;
+}
+
+/* Checkbox styling */
+input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: #8b70c1;
+}
+
+/* Lists inside the table */
+td ul {
+    text-align: left;
+    display: inline-block;
+    line-height: 1.8;
+}
